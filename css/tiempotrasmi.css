@@ -1,0 +1,89 @@
+
+/*font-family: 'Allerta', sans-serif;*/
+/**/
+
+body {
+font-family: 'Roboto Mono', monospace;
+margin: 0;
+}
+
+
+.titulo{
+	font-family: 'Montaga', serif;
+	font-size: 70px;
+	margin-bottom: 0px;
+	margin-top: 70px;
+}
+.title-a{
+	font-size: 24px;
+	margin-top: 0;
+	
+}
+.title-b{
+	font-size: 30px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.rutas{
+	margin-bottom: 10px;
+}
+.tiemporuta1{
+	color: blue;
+	overflow: hidden;
+	position: 10px;
+	margin: 10px;
+	border: 1px solid red;
+}
+.rutas h2{
+	font-family: 'Montaga', serif;
+	font-size: 35px;
+	margin-bottom: 10px;
+
+}
+.portada{
+	padding: 20px;
+	background-image: url('../images/speed.jpg');
+	color: salmon;
+	}
+.portada button{
+	margin-bottom: 70px;
+
+}
+
+.menu{
+	font-size: 24px;
+	display: inline-block;
+
+
+}
+.menu li {
+    display: inline-block;
+    margin-left: 30px;
+}
+.logotipo {
+	display: inline-block;
+}
+.contenedor{
+	width: 1000px;
+	margin: auto;
+}
+.rutas img{
+	float: right;
+	margin: 5px 25px 5px 25px;
+	
+}
+.right{
+	float: right;
+
+}
+.left{
+	float: left;
+	padding: 5px;
+	position:fixed;
+	bottom: 10px;
+}
+.contenedoruta{
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 5px;
+}
